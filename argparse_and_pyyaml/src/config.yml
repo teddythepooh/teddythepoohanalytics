@@ -1,0 +1,13 @@
+columns_mapping:
+  Case Number: incident_id
+  Date: incident_date
+  Primary Type: crime_type
+  Community Area: neighborhood
+
+violent_crimes:
+  - HOMICIDE
+  - ASSAULT
+  - BATTERY
+  - ROBBERY
+  - CRIMINAL SEXUAL ASSAULT
+  - SEX OFFENSE

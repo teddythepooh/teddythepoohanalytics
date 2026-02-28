@@ -1,1 +1,1 @@
-# teddythepoohanalytics
+# Teddy the Pooh Analytics
